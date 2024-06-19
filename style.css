@@ -1,0 +1,179 @@
+.main1 {
+    background: black;
+    color: azure;
+    height: 550px;
+    width: 100%;
+}
+
+.sec1 {
+    float: left;
+    font-size: 20px;
+    margin-left: 110px;
+}
+
+.sec2 {
+
+    font-size: 20px;
+    margin-left: -3x;
+    margin-top: -30px;
+    float: left;
+}
+
+.sec3 ul {
+    margin-left: 280px;
+    margin-top: -50px;
+    float: left;
+}
+
+.sec3 ul li {
+    list-style: none;
+    float: left;
+    margin-left: 100px;
+}
+
+.sec4 {
+
+    margin-left: -200px;
+
+}
+
+.sec4 i {
+    margin-top: 80px;
+    margin-left: 940px;
+    font-size: 140px;
+
+}
+
+.sec5 {
+    text-align: center;
+    margin-left: 10px;
+    margin-top: -220px;
+}
+
+.lo1,
+.lo2 {
+    text-align: center;
+}
+
+.lo1 {
+    margin-left: -700px;
+    margin-top: 20px;
+}
+
+.lo2 {
+    margin-left: -700px;
+    margin-top: -20px;
+}
+
+.sec5-1,
+.sec5-2,
+.sec5-3 {
+    margin-left: -700px;
+}
+
+.bb1 {
+    border-radius: 10PX;
+    margin-left: 110px;
+    width: 10%;
+}
+
+.bb2 {
+    border-radius: 10PX;
+    width: 15%
+}
+
+.bb3 {
+    width: 5%;
+    border-radius: 20px;
+}
+
+.main2 {
+    color: aliceblue;
+    background: rgb(25, 25, 32);
+    height: 500px;
+    width: 100%;
+}
+
+.arjun1 {
+    color: azure;
+    text-align: center;
+}
+
+.arjun2 {
+    background: rgb(53, 51, 51);
+    text-align: center;
+    /* border: 2px solid black; */
+    height: 290px;
+    width: 280px;
+    margin-left:90px;
+    float: left;
+}
+.arjun2 h1{
+    font-size: 25px;
+}
+.arjun2 i {
+    font-size: 50px;
+    margin-top: 40px;
+    margin-left: -10px;
+}
+.arjun3 {
+    background: rgb(53, 51, 51);
+    text-align: center;
+    /* border: 2px solid black; */
+    height: 290px;
+    width: 280px;
+    margin-left:80px;
+    float: left;
+}
+.arjun3 h1{
+    font-size: 25px;
+}
+.arjun3 i {
+    font-size: 50px;
+    margin-top: 40px;
+    margin-left: -10px;
+}
+.arjun4 {
+    background: rgb(53, 51, 51);
+    text-align: center;
+    /* border: 2px solid black; */
+    height: 290px;
+    width: 280px;
+    margin-left:80px;
+    float: left;
+}
+.arjun4 h1{
+    font-size: 25px;
+}
+.arjun4 i {
+    font-size: 50px;
+    margin-top: 40px;
+    margin-left: -10px;
+}
+.main3{
+    text-align: center;
+    color: azure;
+    background: rgb(38, 38, 66);
+    height: 300px;
+}
+.main4{
+    background: rgb(56, 51, 51);
+    height: 380px;
+}
+.rama1{
+    background: rgb(42, 40, 40);
+    font-size: 90px;
+    height: 350px;
+    width: 500px;
+    float: left;
+}
+.rama1 i{
+ color: azure;
+    margin-top: 130px;
+    margin-left:150px;
+}
+.rama2{
+    border: 2px solid rgba(113, 93, 93, 0.11);
+    color: azure;
+    text-align: center;
+}
